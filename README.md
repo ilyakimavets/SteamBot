@@ -4,7 +4,7 @@
 
 There are several things you must do in order to get SteamBot working:
 
-1. Download the source.
+1. Download the sources.
 2. Compile the source code.
 3. Configure the bot (username, password, etc.).
 4. *Optionally*, customize the bot by changing the source code.
